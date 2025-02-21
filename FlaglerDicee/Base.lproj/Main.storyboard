@@ -79,6 +79,8 @@
                     <connections>
                         <outlet property="diceImageView1" destination="lbe-XU-v1c" id="eUF-q2-fzf"/>
                         <outlet property="diceImageView2" destination="4ug-50-Lcn" id="yOj-r0-odk"/>
+                        <outlet property="diceeLogoView" destination="DKj-On-8cr" id="CS4-8P-dOY"/>
+                        <outlet property="unrollButtonUI" destination="Idd-79-L08" id="R6z-rg-7WD"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
